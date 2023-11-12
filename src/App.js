@@ -4,8 +4,6 @@ import Navbar from './components/Navbar';
 
 //content
 import Home from './content/Home';
-
-
 import Contact from './content/Contact';
 import Resume from './content/Resume';
 
