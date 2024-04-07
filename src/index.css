@@ -31,13 +31,13 @@ code {
   /* margin-bottom: 500px; */
   /* /* max-width: 75rem; */
   
-   /* justify-content: space-between; 
-  margin:  0 auto;
+  /* margin:  0 auto; */
+  justify-content: space-between; 
   display: flex;
-  align-items: center; */
-  /* margin: 0 auto; */
+  align-items: center;  
+  
 
-  position: sticky;
+  position: relative;
   top: 0;
   z-index: 3;
   font-size: 25px;
