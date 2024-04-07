@@ -117,23 +117,22 @@ p{
 
 /*  resume  intro */
 .GG{
-  
-
-
+/*   
   margin-left: 50px;
   height: calc(100vh -4rem);
   width: 100vw;
   max-width: 75rem;
   margin: 0 auto;
-  overflow: hidden;
+  overflow: hidden; */
 
 }
 .resume{
+  display: flex;
   margin-left: 350px;
   margin-top: 20px;
-  /* margin-left: 30px;
-  margin-right: 30px; */
-  display: flex;
+   margin-left: 700px;
+
+  /* margin-right: 30px;  */
   border-radius: 5%;
   width: 600px;
   
