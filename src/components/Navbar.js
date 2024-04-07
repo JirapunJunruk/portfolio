@@ -28,10 +28,10 @@ class Navbar extends Component{
     render(){
         return(
 
-            <nav>
+          
                 <div className="nav">
                     
-                        <div><img src={react} className="logo" alt=""/></div>
+                        {/* <div><img src={react} className="logo" alt=""/></div> */}
                         
                         <div className="links1">
                             <a href="/">Home</a>
@@ -46,8 +46,7 @@ class Navbar extends Component{
                 </div>
 
 
-                
-            </nav>
+           
         )
     }
 } 

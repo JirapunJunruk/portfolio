@@ -24,14 +24,20 @@ code {
 
   
 .nav{
-  height: 65px;
-  width: 100vw;
-  max-width: 75rem;
-  margin:  auto;
+  
+  height: 65px; 
+  width: 100px;  
+  margin-left: 500px;
+  /* margin-bottom: 500px; */
+  /* /* max-width: 75rem; */
+  
+   /* justify-content: space-between; 
+  margin:  0 auto;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  position: sticky;
+  align-items: center; */
+  /* margin: 0 auto; */
+
+  position: relative;
   top: 0;
   z-index: 3;
   font-size: 25px;
@@ -73,8 +79,6 @@ code {
       color: #8e969b; 
       border-radius: 5px; 
       background-color: transparent; 
-      transition: background-color 5s ease;
-      animation: scale 6s infinite;
 }
 
 .links1 a{
@@ -98,7 +102,7 @@ object-fit: cover;
  height: auto;  */
 
 }
-
+/* 
 @keyframes scale {
   0% {
     transform: scale(1);
@@ -109,7 +113,7 @@ object-fit: cover;
   100% {
     transform: scale(1);
   }
-}
+} */
 
 
 
