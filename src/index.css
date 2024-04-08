@@ -27,12 +27,11 @@ code {
 /*   
   height: 65px; 
   width: 100px;  
-  margin-left: 500px; */
   /* max-width: 75rem;  */
   /* margin-bottom: 500px;  */
   
-   margin:  0 auto; 
-   justify-content: space-between; 
+  margin:  0 auto; 
+  justify-content: space-between; 
   display: flex;
   align-items: center;  
   
@@ -67,6 +66,7 @@ code {
 /* สไตล์ของลิงก์ใน Navbar */
 
 .links1{
+  margin-left: 200px; 
   
   /* margin-right: 100px;
   display: inline-block; */
@@ -86,7 +86,7 @@ code {
   font-size: 20px;
   /* margin-right: 20px; */
   /* margin-left: 20px; */
-  margin: 90px;
+  margin: 60px;
   cursor: pointer;
   text-decoration: none;
 
