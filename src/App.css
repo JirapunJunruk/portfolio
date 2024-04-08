@@ -94,16 +94,7 @@ p{
 
 
 
-/*  home js intro */
-#intro{
-  height: calc(100vh -4rem);
-  width: 100vw;
-  max-width: 75rem;
-  margin: 0 auto;
-  overflow: hidden;
-  position: relative;
-  align-items: center;
-}
+
 
 /*  contact js intro */
 .condiv {
@@ -147,10 +138,21 @@ p{
   height: 100vh;
 }
 
+/*  home js intro */
+#intro{
+  /* margin-left: 440px; */
+  height: calc(100vh -4rem);
+   width: 100vw;
+  /* max-width: 75rem; */
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+}
+
+
 .introContent{
-  margin-left: 100px;
-  /* height: 100vh;
-  width: 100vw; */
+  margin-left: 460px;
   margin-top: 20px;
   padding: 2rem;
   font-size: 3rem;
@@ -158,6 +160,8 @@ p{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  /* height: 100vh;
+  width: 100vw; */
    
 }
 

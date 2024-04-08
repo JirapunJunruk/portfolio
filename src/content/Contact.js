@@ -5,7 +5,7 @@ import React, {Component} from "react";
  class Contact extends Component{
     render() {
         return(
-            <div className="condiv fa-contact">
+            <div className="condiv ">
               
                 <h1 className="subtopic">Contact Me</h1>
                 <h4 className="add">ที่อยู่</h4>
