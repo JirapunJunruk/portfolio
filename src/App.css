@@ -140,14 +140,14 @@ p{
 
 /*  home js intro */
 #intro{
-  /* margin-left: 440px; */
-  height: calc(100vh -4rem);
-   width: 100vw;
-  /* max-width: 75rem; */
+  /* height: calc(100vh -4rem); */
+  width: 100vw;
   margin: 0 auto;
   overflow: hidden;
   position: relative;
   align-items: center;
+  /* margin-left: 440px; */
+   /* max-width: 75rem; */
 }
 
 
